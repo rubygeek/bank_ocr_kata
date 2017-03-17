@@ -1,0 +1,2 @@
+{:require [bank-ocr.core bank-ocr.machine]
+ :compiler-options {:asset-path "js/main.out"}}
